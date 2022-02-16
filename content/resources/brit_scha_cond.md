@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource includes an article on the topic - Testing in NASA Human-Rated
   Spacecraft Programs: How Much is Just Enough?'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-355j-software-engineering-concepts-fall-2005/f568f347bbe4349841df7c4a1beab6e1_brit_scha_cond.pdf
+file: /media/courses/16-355j-software-engineering-concepts-fall-2005/f568f347bbe4349841df7c4a1beab6e1_brit_scha_cond.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: brit_scha_cond.pdf
 uid: f568f347-bbe4-3498-41df-7c4a1beab6e1

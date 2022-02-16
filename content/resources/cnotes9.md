@@ -3,8 +3,13 @@ content_type: resource
 description: This resource includes the following topics - Some Decision Factors,
   Relationship between PL and Correctness, Design and Use of PLs, Program Comprehension,
   and Program Creation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-355j-software-engineering-concepts-fall-2005/5ab720f0c9da832dd1ce8737ad21131a_cnotes9.pdf
+file: /media/courses/16-355j-software-engineering-concepts-fall-2005/5ab720f0c9da832dd1ce8737ad21131a_cnotes9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cnotes9.pdf
 uid: 5ab720f0-c9da-832d-d1ce-8737ad21131a
