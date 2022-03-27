@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9a58baf9-6f75-cdf6-103b-4fc8e13305a2
 resourcetype: Document
 title: kearney.pdf
 uid: 7112cecd-79cf-cd4f-052d-062f1d0a505e

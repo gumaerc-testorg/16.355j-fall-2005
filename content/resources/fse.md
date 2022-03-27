@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9a58baf9-6f75-cdf6-103b-4fc8e13305a2
 resourcetype: Document
 title: fse.pdf
 uid: cb49f1c3-119d-0ed7-2084-3897f9772009

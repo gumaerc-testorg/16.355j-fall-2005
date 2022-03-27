@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9a58baf9-6f75-cdf6-103b-4fc8e13305a2
 resourcetype: Document
 title: bach_reading.pdf
 uid: 8a132454-4e94-6179-174b-dffa8d6f3ed6

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9a58baf9-6f75-cdf6-103b-4fc8e13305a2
 resourcetype: Document
 title: highsmith_people.pdf
 uid: 2b20a407-3ba5-5635-daf5-267861d961e1

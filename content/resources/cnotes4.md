@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7f9d0bdd-059a-627d-e538-20d802cfe562
 resourcetype: Document
 title: cnotes4.pdf
 uid: 98b70cac-8085-d893-ae06-d7bc556a286f
