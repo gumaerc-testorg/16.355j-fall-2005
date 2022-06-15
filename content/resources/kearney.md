@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-355j-software-engineering-concepts-fall-2005/7112cecd79cfcd4f052d062f1d0a505e_kearney.pdf
+file: /courses/16-355j-software-engineering-concepts-fall-2005/7112cecd79cfcd4f052d062f1d0a505e_kearney.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

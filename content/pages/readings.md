@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Readings section contains the required and additional readings for the
+  course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -41,7 +43,7 @@ Introducing The Problem
 {{< tdopen >}}
 
 
-Leveson, Nancy G. "The Therac-25 Accident." ([PDF - 1.9 MB]({{< baseurl >}}/resources/therac))
+Leveson, Nancy G. "The Therac-25 Accident." ({{% resource_link ea2a6010-dd35-44fd-a28e-104a8cc4f72d "PDF - 1.9 MB" %}})
 
 Lewyn, Mark. "Flying in Place: The FAA's Air Control Fiasco." _Business Week_ (April 26, 1998): 87-88.
 
@@ -51,7 +53,7 @@ Brooks, Frederick, Jr. "No Silver Bullet." In _Information Processing_. Edited b
 
 Davis, Alan. "Software Lemmingineering." _IEEE Magazine_ (September 1993): 79-82.
 
-Leveson, Nancy G. "The Role of Software in Spacecraft Accidents." _AIAA Journal of Spacecraft and Rockets._ ([PDF]({{< baseurl >}}/resources/jsr))
+Leveson, Nancy G. "The Role of Software in Spacecraft Accidents." _AIAA Journal of Spacecraft and Rockets._ ({{% resource_link 364e4d0c-757e-93e4-4abb-c89758f2e69c "PDF" %}})
 
 Ewusi-Mensah, Kweku. "Critical Issues in Abandoned Information Systems Development Projects." _Communications of the ACM_ 50, no. 9 (September 1997).
 
@@ -77,11 +79,11 @@ Process and Life Cycle Models
 {{< tdopen >}}
 
 
-Spiral Model ([GIF]({{< baseurl >}}/resources/spiral_model))
+Spiral Model ({{% resource_link 2cd55bec-c4a6-64b3-c1bc-a97b8694e1b0 "GIF" %}})
 
 Paulk, Mark C., Bill Curtis, Mary Beth Chrissis, and Charles V. Weber. "The Capability Maturity Model for Software." Pittsburgh, PA: Carnegie Mellon University, Software Engineering Institute. (Unpublished.)
 
-Bach, James. "The Immaturity of CMM." _American Programmer_ (September 1994). ([PDF]({{< baseurl >}}/resources/bach_reading)) (Courtesy of James Bach. Used with permission.)
+Bach, James. "The Immaturity of CMM." _American Programmer_ (September 1994). ({{% resource_link 8a132454-4e94-6179-174b-dffa8d6f3ed6 "PDF" %}}) (Courtesy of James Bach. Used with permission.)
 
 ———. "Enough About Process: What we Need are Heroes." _IEEE Software_ (March 1995): 96-98.
 
@@ -129,7 +131,7 @@ Leishman and Cook. "Requirements Risks Can Drown Software Projects." _Computer_ 
 
 Wing, Jeannette M. "A Specifier's Introduction to Formal Methods." _Computer_ (September 1990): 9-23.
 
-Leveson, Nancy G. "Intent Specifications: An Approach to Building Human-Centered Specifications." ([PDF - 1.3 MB]({{< baseurl >}}/resources/levesonintent))
+Leveson, Nancy G. "Intent Specifications: An Approach to Building Human-Centered Specifications." ({{% resource_link aadb0f82-bb1e-0c3f-bb90-ec099866d72f "PDF - 1.3 MB" %}})
 
 
 {{< tdclose >}}
@@ -277,7 +279,7 @@ Building Confidence (Testing, Analysis, QA, Reviews)
 {{< tdopen >}}
 
 
-Schaible, Dawn M., and Keith J. Britton. "Testing in NASA Human-Rated Spacecraft Programs: How Much is Just Enough?" SDM Master's Thesis. MIT, February 2003. (Only chapters 2, 4, and 5 are required reading.) ([PDF]({{< baseurl >}}/resources/brit_scha_cond))
+Schaible, Dawn M., and Keith J. Britton. "Testing in NASA Human-Rated Spacecraft Programs: How Much is Just Enough?" SDM Master's Thesis. MIT, February 2003. (Only chapters 2, 4, and 5 are required reading.) ({{% resource_link f568f347-bbe4-3498-41df-7c4a1beab6e1 "PDF" %}})
 
 Yamaura, Tsuneo. "How to Design Practical Test Cases." _IEEE Software_ (November/December 1998): 30-36.
 
@@ -339,7 +341,7 @@ Team Organization and People Management
 {{< tdopen >}}
 
 
-Kruper, K., Dr. Personality Types. (Additional class notes.) ([PDF]({{< baseurl >}}/resources/types))
+Kruper, K., Dr. Personality Types. (Additional class notes.) ({{% resource_link 010cb183-3a42-5755-0465-6af6ae14499f "PDF" %}})
 
 Ferdinandi, Patricia L. "Facilitating Communication." _IEEE Software_ (September/October 1998): 92-96.
 
@@ -375,11 +377,11 @@ Software and System Safety
 {{< tdopen >}}
 
 
-Leveson, Nancy. "A New Accident Model for Engineering Safer Systems." ([PDF]({{< baseurl >}}/resources/safescien_single))
+Leveson, Nancy. "A New Accident Model for Engineering Safer Systems." ({{% resource_link 94aad3a6-f188-8aeb-4195-cdd3f41f885b "PDF" %}})
 
-———. "A Systems Theoretic Approach to Safety Engineering." (Read only the case study, not the introduction.) ([PDF]({{< baseurl >}}/resources/external2))
+———. "A Systems Theoretic Approach to Safety Engineering." (Read only the case study, not the introduction.) ({{% resource_link 677d46c4-6e57-fa4d-fb50-19e628d512ef "PDF" %}})
 
-———. "A Systems-Theoretic Approach to Safety in Software-Intensive Systems." (Read only the case study, not the introduction.) ([PDF]({{< baseurl >}}/resources/tdsc_final))
+———. "A Systems-Theoretic Approach to Safety in Software-Intensive Systems." (Read only the case study, not the introduction.) ({{% resource_link afc60de2-c951-a9c4-4ef6-7ca8d37390c8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -403,7 +405,7 @@ Putting It All Together
 {{< tdopen >}}
 
 
-Leveson, Nancy. "Software Engineering: A Look Back and A Path to the Future." December 14, 1996. ([PDF]({{< baseurl >}}/resources/leveson))
+Leveson, Nancy. "Software Engineering: A Look Back and A Path to the Future." December 14, 1996. ({{% resource_link 16e8fb91-482d-1955-8712-fbf4cedc32b0 "PDF" %}})
 
 Shapiro, Stuart. "Splitting the Difference: The Historical Necessity of Synthesis in Software Engineering." _IEEE Annals of the History of Computing_ 19, no. 1 (1997): 20-54.
 
