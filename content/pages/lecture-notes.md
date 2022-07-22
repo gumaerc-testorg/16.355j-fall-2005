@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Lecture notes section contains the course notes.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 7f9d0bdd-059a-627d-e538-20d802cfe562
 ---
@@ -22,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introducing The Problem ([PDF]({{< baseurl >}}/resources/cnotes1))
+Introducing The Problem ({{% resource_link c5700375-4c71-b9f4-3d8e-ae03b4362cd5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Introducing The Problem ([PDF]({{< baseurl >}}/resources/cnotes1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Process and Life Cycle Models ([PDF]({{< baseurl >}}/resources/cnotes2))
+Process and Life Cycle Models ({{% resource_link fde8c18b-4637-3e92-6296-1027b620636f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Process and Life Cycle Models ([PDF]({{< baseurl >}}/resources/cnotes2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Requirements and Specification ([PDF]({{< baseurl >}}/resources/cnotes3))
+Requirements and Specification ({{% resource_link f5a9c0cb-bfc7-8472-08f1-4e7122ceb77d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Requirements and Specification ([PDF]({{< baseurl >}}/resources/cnotes3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Design ([PDF]({{< baseurl >}}/resources/cnotes4))
+Design ({{% resource_link 98b70cac-8085-d893-ae06-d7bc556a286f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ Design ([PDF]({{< baseurl >}}/resources/cnotes4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Design (cont.) ([PDF]({{< baseurl >}}/resources/cnotes5))
+Design (cont.) ({{% resource_link 5c449353-6832-1118-45f2-91d3d62a6f38 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ Design (cont.) ([PDF]({{< baseurl >}}/resources/cnotes5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-COTS and Reuse ([PDF]({{< baseurl >}}/resources/cnotes6))
+COTS and Reuse ({{% resource_link e2c44b1e-ee07-92b7-da41-2b01108bbefe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ COTS and Reuse ([PDF]({{< baseurl >}}/resources/cnotes6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Metrics and Reliability Assessment ([PDF]({{< baseurl >}}/resources/cnotes7))
+Metrics and Reliability Assessment ({{% resource_link 2595db84-3b20-6fca-a30f-c563a3c1db94 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +89,7 @@ Metrics and Reliability Assessment ([PDF]({{< baseurl >}}/resources/cnotes7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Building Confidence (Testing, Analysis, QA, Reviews) ([PDF]({{< baseurl >}}/resources/cnotes8))
+Building Confidence (Testing, Analysis, QA, Reviews) ({{% resource_link e63235a7-9344-dd66-98c6-aac23285f380 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +98,7 @@ Building Confidence (Testing, Analysis, QA, Reviews) ([PDF]({{< baseurl >}}/reso
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Selecting a Programming Language ([PDF]({{< baseurl >}}/resources/cnotes9))
+Selecting a Programming Language ({{% resource_link 5ab720f0-c9da-832d-d1ce-8737ad21131a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +107,7 @@ Selecting a Programming Language ([PDF]({{< baseurl >}}/resources/cnotes9))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Team Organization and People Management ([PDF]({{< baseurl >}}/resources/cnotes10))
+Team Organization and People Management ({{% resource_link c9fd670f-f237-3cd5-1504-feddc4fef9d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +116,7 @@ Team Organization and People Management ([PDF]({{< baseurl >}}/resources/cnotes1
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Software and System Safety ([PDF]({{< baseurl >}}/resources/cnotes11))
+Software and System Safety ({{% resource_link ccea41d4-1a14-73d2-3415-59dce5b01e4e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

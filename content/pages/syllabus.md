@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Syllabus section incldues objective, required background, readings, assignments,
+  class session, and grading information for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6c8f55b1-d550-95cb-b966-b801e1ffbf5c
 ---
@@ -46,7 +50,7 @@ Grades will be based on the weekly assignments.
 Schedule
 --------
 
-The topic is vast and cannot be completely covered in one semester. The specific topics to be covered have been chosen somewhat arbitrarily and may change in future offerings of the class. A schedule and list of assigned readings are available in the [calendar]({{< baseurl >}}/pages/calendar) and [readings]({{< baseurl >}}/pages/readings) sections respectively. Copies of the class lecture notes are available in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) section.
+The topic is vast and cannot be completely covered in one semester. The specific topics to be covered have been chosen somewhat arbitrarily and may change in future offerings of the class. A schedule and list of assigned readings are available in the {{% resource_link a752c8ea-ec49-ae9c-2928-98c34aaf26aa "calendar" %}} and {{% resource_link 9a58baf9-6f75-cdf6-103b-4fc8e13305a2 "readings" %}} sections respectively. Copies of the class lecture notes are available in the {{% resource_link 7f9d0bdd-059a-627d-e538-20d802cfe562 "lecture notes" %}} section.
 
 Instructions for Reading Assignments
 ------------------------------------
