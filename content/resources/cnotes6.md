@@ -6,6 +6,7 @@ file: /courses/16-355j-software-engineering-concepts-fall-2005/e2c44b1eee0792b7d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cnotes6.pdf
 uid: e2c44b1e-ee07-92b7-da41-2b01108bbefe
 ---
 This resource includes the following topics - Reuse, Empirical Data, Technical Issues, and Management Issues.
-

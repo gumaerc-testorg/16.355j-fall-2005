@@ -8,6 +8,7 @@ file: /courses/16-355j-software-engineering-concepts-fall-2005/f5a9c0cbbfc784720
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: cnotes3.pdf
 uid: f5a9c0cb-bfc7-8472-08f1-4e7122ceb77d
 ---
 This resource includes the following topics - Requirements Specification, Design Specification, Attributes of a good requirements document, Ensuring a Successful Product, Types of Specifications, Input-Output Assertions, Abstract Model Specifications, and Example of a State Machine Model.
-

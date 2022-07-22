@@ -6,6 +6,7 @@ file: /courses/16-355j-software-engineering-concepts-fall-2005/fde8c18b46373e926
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cnotes2.pdf
 uid: fde8c18b-4637-3e92-6296-1027b620636f
 ---
 This resource includes the following topics - waterfall model, Evolutionary Model, Incremental Model, Spiral Model, Software Factory, and Other CMM Problems.
-

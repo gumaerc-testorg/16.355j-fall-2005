@@ -6,6 +6,7 @@ file: /courses/16-355j-software-engineering-concepts-fall-2005/97448c24c86d03fc5
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ziegler.pdf
 uid: 97448c24-c86d-03fc-59f8-20887ec5860f
 ---
 This resource includes an article on the topic - Comparing Development Costs of C and Ada.
-

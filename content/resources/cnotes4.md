@@ -6,6 +6,7 @@ file: /courses/16-355j-software-engineering-concepts-fall-2005/98b70cac8085d893a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cnotes4.pdf
 uid: 98b70cac-8085-d893-ae06-d7bc556a286f
 ---
 This resource includes the following topics - Goals, History of software design ideas, Design principles, and Design methods.
-

@@ -6,6 +6,7 @@ file: /courses/16-355j-software-engineering-concepts-fall-2005/4b3577da7baf38016
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: intro_softarch.pdf
 uid: 4b3577da-7baf-3801-621e-092a5fa32b92
 ---
 This resource includes an article on the topic - An Introduction to Software Architecture.
-

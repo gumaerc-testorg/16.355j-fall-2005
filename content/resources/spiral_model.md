@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: spiral_model.gif
 uid: 2cd55bec-c4a6-64b3-c1bc-a97b8694e1b0
 ---
 This resource is an image which contains the evaluate alternatives identify resolve risks.
-

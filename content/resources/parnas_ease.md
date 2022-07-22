@@ -5,6 +5,7 @@ file: /courses/16-355j-software-engineering-concepts-fall-2005/1c68d0f98909a126e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

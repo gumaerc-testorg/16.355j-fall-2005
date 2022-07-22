@@ -7,6 +7,7 @@ file: /courses/16-355j-software-engineering-concepts-fall-2005/2595db843b206fcaa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: cnotes7.pdf
 uid: 2595db84-3b20-6fca-a30f-c563a3c1db94
 ---
 This resource includes the following topics - Product vs. process, Three assumptions (Kitchenham), Code, Programmer productivity, Design, Testing, Maintainability, and Management.
-
