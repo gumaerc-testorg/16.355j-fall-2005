@@ -3,6 +3,7 @@ content_type: resource
 description: This resource explains the four steps of team development i.e. Forming,
   Storming, Norming, and Performing.
 file: /courses/16-355j-software-engineering-concepts-fall-2005/c9fd670ff2373cd51504feddc4fef9d1_cnotes10.pdf
+file_size: 50577
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

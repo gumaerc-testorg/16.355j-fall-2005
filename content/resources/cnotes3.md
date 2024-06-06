@@ -5,6 +5,7 @@ description: This resource includes the following topics - Requirements Specific
   Product, Types of Specifications, Input-Output Assertions, Abstract Model Specifications,
   and Example of a State Machine Model.
 file: /courses/16-355j-software-engineering-concepts-fall-2005/f5a9c0cbbfc7847208f14e7122ceb77d_cnotes3.pdf
+file_size: 225074
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
