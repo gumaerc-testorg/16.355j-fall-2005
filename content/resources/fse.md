@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-355j-software-engineering-concepts-fall-2005/cb49f1c3119d0ed720843897f9772009_fse.pdf
+file_size: 141366
 file_type: application/pdf
 learning_resource_types:
 - Readings

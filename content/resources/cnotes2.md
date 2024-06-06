@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes the following topics - waterfall model, Evolutionary
   Model, Incremental Model, Spiral Model, Software Factory, and Other CMM Problems.
 file: /courses/16-355j-software-engineering-concepts-fall-2005/fde8c18b46373e9262961027b620636f_cnotes2.pdf
+file_size: 47775
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

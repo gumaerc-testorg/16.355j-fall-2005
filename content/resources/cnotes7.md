@@ -4,6 +4,7 @@ description: This resource includes the following topics - Product vs. process, 
   assumptions (Kitchenham), Code, Programmer productivity, Design, Testing, Maintainability,
   and Management.
 file: /courses/16-355j-software-engineering-concepts-fall-2005/2595db843b206fcaa30fc563a3c1db94_cnotes7.pdf
+file_size: 229758
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
