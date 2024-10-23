@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes an article on the topic - A Systems Theoretic
   Approach to Safety Engineering.
-file: /courses/16-355j-software-engineering-concepts-fall-2005/677d46c46e57fa4dfb5019e628d512ef_external2.pdf
+file: /ol-ocw-studio-app/courses/16-355j-software-engineering-concepts-fall-2005/677d46c46e57fa4dfb5019e628d512ef_external2.pdf
 file_size: 319216
 file_type: application/pdf
 learning_resource_types:

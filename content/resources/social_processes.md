@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-355j-software-engineering-concepts-fall-2005/ad08fb7275c25842252815eaf0b1b59d_social_processes.pdf
+file: /ol-ocw-studio-app/courses/16-355j-software-engineering-concepts-fall-2005/ad08fb7275c25842252815eaf0b1b59d_social_processes.pdf
 file_size: 925173
 file_type: application/pdf
 learning_resource_types:
