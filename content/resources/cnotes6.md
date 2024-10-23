@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the following topics - Reuse, Empirical Data,
   Technical Issues, and Management Issues.
-file: /courses/16-355j-software-engineering-concepts-fall-2005/e2c44b1eee0792b7da412b01108bbefe_cnotes6.pdf
+file: /ol-ocw-studio-app/courses/16-355j-software-engineering-concepts-fall-2005/e2c44b1eee0792b7da412b01108bbefe_cnotes6.pdf
 file_size: 44745
 file_type: application/pdf
 learning_resource_types:
