@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is an image which contains the evaluate alternatives identify
   resolve risks.
-file: /ol-ocw-studio-app/courses/16-355j-software-engineering-concepts-fall-2005/2cd55becc4a664b3c1bca97b8694e1b0_spiral_model.gif
+file: /courses/16-355j-software-engineering-concepts-fall-2005/2cd55becc4a664b3c1bca97b8694e1b0_spiral_model.gif
 file_size: 11102
 file_type: image/gif
 image_metadata:
