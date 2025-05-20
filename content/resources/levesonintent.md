@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes an article on the topic - Intent Specifications:
   An Approach to Building Human-Centered Specifications.'
-file: /ol-ocw-studio-app/courses/16-355j-software-engineering-concepts-fall-2005/aadb0f82bb1e0c3fbb90ec099866d72f_levesonintent.pdf
+file: /courses/16-355j-software-engineering-concepts-fall-2005/aadb0f82bb1e0c3fbb90ec099866d72f_levesonintent.pdf
 file_size: 1317484
 file_type: application/pdf
 learning_resource_types:

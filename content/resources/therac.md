@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes an article on the topic - Medical Devices: The
   Therac-25.'
-file: /ol-ocw-studio-app/courses/16-355j-software-engineering-concepts-fall-2005/ea2a6010dd3544fda28e104a8cc4f72d_therac.pdf
+file: /courses/16-355j-software-engineering-concepts-fall-2005/ea2a6010dd3544fda28e104a8cc4f72d_therac.pdf
 file_size: 1993696
 file_type: application/pdf
 learning_resource_types:

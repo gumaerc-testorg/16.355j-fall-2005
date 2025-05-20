@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the following topics - Is There a Problem?, Why
   is Software Engineering Hard?, and Syllabus and Class Description.
-file: /ol-ocw-studio-app/courses/16-355j-software-engineering-concepts-fall-2005/c57003754c71b9f43d8eae03b4362cd5_cnotes1.pdf
+file: /courses/16-355j-software-engineering-concepts-fall-2005/c57003754c71b9f43d8eae03b4362cd5_cnotes1.pdf
 file_size: 122420
 file_type: application/pdf
 learning_resource_types:
