@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes an article on the topic - A Systems-Theoretic
   Approach to Safety in Software-Intensive Systems.
-file: /courses/16-355j-software-engineering-concepts-fall-2005/afc60de2c951a9c44ef67ca8d37390c8_tdsc_final.pdf
+file: /ol-ocw-studio-app/courses/16-355j-software-engineering-concepts-fall-2005/afc60de2c951a9c44ef67ca8d37390c8_tdsc_final.pdf
 file_size: 334399
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes an article on the topic - Comparing Development
   Costs of C and Ada.
-file: /courses/16-355j-software-engineering-concepts-fall-2005/97448c24c86d03fc59f820887ec5860f_ziegler.pdf
+file: /ol-ocw-studio-app/courses/16-355j-software-engineering-concepts-fall-2005/97448c24c86d03fc59f820887ec5860f_ziegler.pdf
 file_size: 149991
 file_type: application/pdf
 learning_resource_types:
